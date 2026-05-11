@@ -1,0 +1,14 @@
+[app]
+name = "Doodle Jump"
+category = "Games"
+wifi_preference = false
+
+[entry]
+class = "DoodleJump"
+
+[metadata]
+author = "ntflix"
+license = "MIT"
+url = "https://www.github.com/ntflix/tildagon-doodle-jump"
+description = "Play a doodle-jump-like game on your badge!"
+version = "1.0.0"

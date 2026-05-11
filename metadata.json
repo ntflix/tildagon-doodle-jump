@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Jump",
+  "path": "apps.doodlejump.DoodleJumpApp",
+  "callable": "DoodleJump",
+  "category": "Games"
+}
