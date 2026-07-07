@@ -7,7 +7,7 @@ wifi_preference = false
 class = "DoodleJump"
 
 [metadata]
-author = "ntflix"
+author = "felixweber"
 license = "MIT"
 url = "https://www.github.com/ntflix/tildagon-doodle-jump"
 description = "Play a doodle-jump-like game on your badge!"
